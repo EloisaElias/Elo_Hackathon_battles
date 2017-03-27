@@ -10,6 +10,7 @@ I’m passionate about data science. If you would like me to join your team, let
 Thank you for viewing my portfolio at:
 
 https://www.linkedin.com/in/eloisaeliastran/ 
+
 https://github.com/EloisaElias
 
 In addition I would love to mention that I'm a co-organizer of the PyLadies Seattle and I’m also organizing the PyData Seattle conferences for July 5 -7 2017 at Microsoft. 
