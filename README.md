@@ -5,6 +5,8 @@
 
 Hola a todos, I'm Eloisa and I'm a data scientist that loves math, python & statistics. 
 
+I’m passionate about data science. If you would like me to join your team, let’s have a coffee. I would love to join a company with big data science projects and challenges.
+
 Thank you for viewing my portfolio at:
 
 https://www.linkedin.com/in/eloisaeliastran/ 
