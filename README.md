@@ -22,14 +22,19 @@ Please be so kind to contact me at any of the following meetup links:
 PyData links:
 
 https://www.meetup.com/pydata_seattle/events/238681827/
+
 https://pydata.org/seattle2017/
 
 PyLadies links:
 
 https://www.meetup.com/Seattle-PyLadies/
+
 http://seattle.pyladies.com/
+
 http://www.pyladies.com/locations/sea/
+
 http://www.pyladies.com/
+
 https://www.python.org/
 
 
