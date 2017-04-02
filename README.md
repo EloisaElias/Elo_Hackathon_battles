@@ -3,14 +3,15 @@
 ## Direction over speed
 #### Integrity, Vision and Delivery
 
-Hola a todos, I'm Eloisa and I'm a data scientist that loves math, python & statistics. 
+Hola a todos, 
 
-I’m passionate about data science. If you would like me to join your team, let’s have a coffee. I would love to join a company with big data science projects and challenges.
+I'm Eloisa, I'm a Data Scientist and I’m passionate about using data science, programming, and statistical analysis to solve Big Data challenges and deliver valuable business insights. 
+
+I would love to join a company with big data science projects and challenges.
 
 Please check out my Github portfolio for the data science projects I'm working on:
 
 https://www.linkedin.com/in/eloisaeliastran/ 
-
 https://github.com/EloisaElias
 
 In addition I would love to mention that I'm a co-organizer of the PyLadies Seattle and I’m also organizing the PyData Seattle conferences for July 5 -7 2017 at Microsoft. 
@@ -36,9 +37,6 @@ http://www.pyladies.com/locations/sea/
 http://www.pyladies.com/
 
 https://www.python.org/
-
-
-
 
                                                        Gracias totales
                                                             Elo
