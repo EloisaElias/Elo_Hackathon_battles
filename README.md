@@ -20,21 +20,18 @@ PyData Seattle is going to have a diversity panel and I would love to invite you
 
 Please be so kind to contact me at any of the following meetup links:
 
-PyData links:
+#### PyData
 
-https://www.meetup.com/pydata_seattle/events/238681827/
+https://pydata.org
 
-https://pydata.org/seattle2017/
+https://www.meetup.com/pydata_seattle
 
-PyLadies links:
 
-https://www.meetup.com/Seattle-PyLadies/
+#### PyLadies
 
-http://seattle.pyladies.com/
+https://www.meetup.com/Seattle-PyLadies
 
-http://www.pyladies.com/locations/sea/
-
-http://www.pyladies.com/
+http://seattle.pyladies.com
 
 https://www.python.org/
 
