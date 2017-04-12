@@ -11,9 +11,14 @@ I would love to join a company with big data science projects and challenges.
 
 Please check out my Github portfolio for the data science projects I'm working on:
 
-https://www.linkedin.com/in/eloisaeliastran/ 
 
-https://github.com/EloisaElias
+[Eloisa - GitHub portfolio](https://github.com/EloisaElias)
+
+
+Thank you for viewing my portfolio at:
+
+[Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
+
 
 In addition I would love to mention that I'm a co-organizer of the PyLadies Seattle and I’m also organizing the PyData Seattle conferences for July 5 -7 2017 at Microsoft. 
 
@@ -23,16 +28,16 @@ Please be so kind to contact me at any of the following meetup links:
 
 #### PyData
 
+https://www.meetup.com/pydata_seattle
+
 https://pydata.org
 
-https://www.meetup.com/pydata_seattle
 
 
 #### PyLadies
 
 https://www.meetup.com/Seattle-PyLadies
 
-http://seattle.pyladies.com
 
 https://www.python.org/
 
