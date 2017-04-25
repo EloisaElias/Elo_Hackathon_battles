@@ -25,9 +25,11 @@ I would love to join a company with big data science projects and challenges. Ch
 [Eloisa - GitHub portfolio](https://github.com/EloisaElias)
 
 
-LinkedIn ortfolio at:
+LinkedIn portfolio at:
 
 [Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
+
+@eloeliasds
 
 __Contact me at any of the following meetup links:__
 
