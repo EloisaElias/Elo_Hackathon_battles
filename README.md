@@ -1,30 +1,36 @@
-### Hackathon_battles
+---
 
-## Direction over speed
-#### Integrity, Vision and Delivery
+### TMobile/Amazon Big Data Hackathon Honorable Mention!
 
-Hola a todos, 
+---
+#### Integrity, Energy, Vision and Delivery
 
-I'm Eloisa, I'm a Data Scientist and I’m passionate about using data science, programming, and statistical analysis to solve Big Data challenges and deliver valuable business insights. 
 
-I would love to join a company with big data science projects and challenges.
+Hooray! Check out my award winner hackathon project!
 
-Please check out my Github portfolio for the data science projects I'm working on:
+[I was awarded the Honorable Mention for the best Big Data model presented at the event!](http://bigdatahackathon2017.tmo.io)
+
+[T-Mobile Big Data Hackathon #TMoHack ](https://www.youtube.com/watch?v=qEaGuX18sz4&feature=youtu.be)
+
+
+
+I'm Eloisa a Data Scientist. I’m passionate about using data science, programming, and statistical analysis to solve Big Data challenges and deliver valuable business insights. 
+
+
+I’m an active member of the Seattle Tech community. I'm a co-organizer of PyLadies Seattle, supporting over 1155 local members. PyLadies is a worldwide group of women developers in Python programming language with presence in Seattle-Bellevue. In addition, I also co-organize the PyData Seattle conferences, which brings together users and developers of data analysis tools to share ideas and learn from each other. 
+
+I would love to join a company with big data science projects and challenges. Check out my Github portfolio for the data science projects I'm working on:
 
 
 [Eloisa - GitHub portfolio](https://github.com/EloisaElias)
 
 
-Thank you for viewing my portfolio at:
+LinkedIn ortfolio at:
 
 [Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
 
+__Contact me at any of the following meetup links:__
 
-In addition I would love to mention that I'm a co-organizer of the PyLadies Seattle and I’m also organizing the PyData Seattle conferences for July 5 -7 2017 at Microsoft. 
-
-PyData Seattle is going to have a diversity panel and I would love to invite the community to apply and participate in our diversity panel. Panelists will represent a diverse array of experience and areas of practice in Tech. Panelist will offer suggestions and strategies for Gender Diversity in Tech. 
-
-Please be so kind to contact me at any of the following meetup links:
 
 #### PyData
 
