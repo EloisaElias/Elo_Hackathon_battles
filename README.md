@@ -1,6 +1,6 @@
 ---
 
-### TMobile/Amazon Big Data Hackathon Honorable Mention!
+### T-Mobile/Amazon Big Data Hackathon Honorable Mention!
 
 ---
 #### Integrity, Energy, Vision and Delivery
