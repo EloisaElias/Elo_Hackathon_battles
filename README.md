@@ -4,10 +4,10 @@
 
 
 ---
-### T-Mobile/Amazon Big Data Hackathon Honorable Mention!
+#### T-Mobile/Amazon Big Data Hackathon Honorable Mention!
 
 
-#### Integrity, Energy, Vision and Delivery
+##### Integrity, Energy, Vision and Delivery
 
 
 Hooray! Check out my award winner hackathon project!
