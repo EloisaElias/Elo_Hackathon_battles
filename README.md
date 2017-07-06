@@ -1,21 +1,14 @@
 
 ### Eloisa - Data Scientist
-#### @eloeliasds
+#### @PyDataSeattle
+## T-Mobile/Amazon Big Data Hackathon Honorable Mention!
 
 
----
-#### T-Mobile/Amazon Big Data Hackathon Honorable Mention!
+__Hackathon project__
 
-
-##### Integrity, Energy, Vision and Delivery
-
-
-Hooray! Check out my award winner hackathon project!
-
-[I was awarded the Honorable Mention for the best Big Data model presented at the event!](http://bigdatahackathon2017.tmo.io)
+[Awarded the Honorable Mention for the best Big Data model presented at the event!](http://bigdatahackathon2017.tmo.io)
 
 [T-Mobile Big Data Hackathon #TMoHack ](https://www.youtube.com/watch?v=qEaGuX18sz4&feature=youtu.be)
-
 
 
 I'm Eloisa a Data Scientist. I’m passionate about using data science, programming, and statistical analysis to solve Big Data challenges and deliver valuable business insights. 
@@ -24,22 +17,13 @@ I’m an active member of the Seattle Tech community. I'm a co-organizer of PyLa
 
 ---
 
-
-I would love to join a company with big data science projects and challenges. Check out my Github portfolio for the data science projects I'm working on:
-
 [Eloisa - GitHub portfolio](https://github.com/EloisaElias)
 
 
-LinkedIn portfolio at:
 
 [Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
 
-@eloeliasds
-
-__Contact me at any of the following meetup links:__
-
-
-#### PyData
+__@PyDataSeattle__
 
 https://www.meetup.com/pydata_seattle
 
