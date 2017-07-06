@@ -1,10 +1,8 @@
 
 ### Eloisa - Data Scientist
 #### @PyDataSeattle
-## T-Mobile/Amazon Big Data Hackathon Honorable Mention!
+## T-Mobile/Amazon Big Data Hackathon
 
-
-__Hackathon project__
 
 [Awarded the Honorable Mention for the best Big Data model presented at the event!](http://bigdatahackathon2017.tmo.io)
 
