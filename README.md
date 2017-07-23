@@ -1,6 +1,6 @@
 
 ### Eloisa - Data Scientist
-#### @PyDataSeattle
+
 ## T-Mobile/Amazon Big Data Hackathon
 
 
@@ -12,28 +12,14 @@
 I'm Eloisa a Data Scientist. I’m passionate about using data science, programming, and statistical analysis to solve Big Data challenges and deliver valuable business insights. 
 
 
----
-
-[Eloisa - GitHub portfolio](https://github.com/EloisaElias)
-
-
-
-[Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
-
-__@PyDataSeattle__
-
-https://www.meetup.com/pydata_seattle
-
-https://pydata.org
+If you would like me to join your team, contact me at:
+#### [Eloisa - LinkedIn](https://www.linkedin.com/in/eloeliasds/)
+#### [Eloisa - Portfolio](https://github.com/EloisaElias/Elo_portfolio)
+#### [@PyDataSeattle](https://twitter.com/PyDataSeattle)
+#### [PyData Seattle](https://www.meetup.com/pydata_seattle)
+#### [PyLadies](https://www.meetup.com/Seattle-PyLadies)
 
 
-
-#### PyLadies
-
-https://www.meetup.com/Seattle-PyLadies
-
-
-https://www.python.org/
 
                                                        Gracias totales
                                                             Elo
